@@ -2,4 +2,11 @@ HALLO WELT
 
 ÄNDERUNG 1
 
+<<<<<<< HEAD
 Änderung 2Änderung im master
+=======
+Änderung 2
+
+
+jetzt im Testing Branch
+>>>>>>> testing
